@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.security.rate-limit.capacity",
+  "type": "java.lang.String",
+  "description": "A description for 'app.security.rate-limit.capacity'"
+}]}
